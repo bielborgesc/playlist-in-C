@@ -11,7 +11,7 @@
 
 ## Developers:
 
-Ailton Alves
-Gabriel Borges
-Lygia Bueno
-Renata Persch
+ - Ailton Alves
+ - Gabriel Borges
+ - Lygia Bueno
+ - Renata Persch
